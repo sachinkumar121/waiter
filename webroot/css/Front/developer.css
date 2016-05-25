@@ -1,0 +1,309 @@
+em.signup_error {
+  color: #ff5a5f;
+  font-size: 13px;
+  font-style: normal;
+  margin-left: 5px;
+}
+
+label.error {
+    color: #ff5a5f !important;
+    font-size: 12px !important;
+    font-weight: normal !important;
+}
+
+.response_msg_container {
+    position: relative !important;
+    top: 7px !important;
+}
+p.successMessage {
+    color: #4F9709;
+    font-size: 12px !important;
+    position: relative;
+    top: 0px;
+}
+p.errorMessage {
+    color: #DF1C2A;
+   font-size: 12px !important;
+    position: relative;
+    top: 0px;
+}
+.success_msg{
+  background: #4F9709 none repeat scroll 0 0;
+    bottom: 10px;
+    color: #fff !important;
+    cursor: pointer !important;
+    float: right !important;
+    opacity: 0.9 !important;
+    padding: 5px;
+    position: fixed !important;
+    right: 7px;
+    text-align: center !important;
+    z-index: 9999 !important;
+}
+
+.error_msg {
+    background: #df1c2a none repeat scroll 0 0;
+    bottom: 10px;
+    color: #fff !important;
+    cursor: pointer !important;
+    float: right !important;
+    opacity: 0.9 !important;
+    padding: 5px;
+    position: fixed !important;
+    right: 7px;
+    text-align: center !important;
+    z-index: 9999 !important;
+}
+
+
+label.error {
+  position: relative;
+  top: -5px;
+}
+/*For sign up*/
+.signup-color > a{
+    font-size: 13px;
+
+}
+
+
+#myModal21 .top-close {
+    background: #ffffff none repeat scroll 0 0;
+    border-bottom: 1px solid #efefef;
+    height: 40px;
+    width: 100%;
+}
+
+#myModal21 .modal-footer {
+    border-top: 1px solid #e5e5e5;
+    padding: 15px 0 0 15px;
+    text-align: right;
+}
+
+
+#myModal21 .sitter-quike-view .sqv-box .top-close p {
+    color: #404040;
+    float: left;
+    font-size: 18px;
+    line-height: 13px;
+}
+
+#preview-avatar-profile {text-align:center; margin-top:20px;}
+
+
+#myModal21 .sitter-quike-view .sqv-box .top-close a {
+    border: 1px solid #dddddd;
+    border-radius: 50%;
+    float: right;
+    height: 25px;
+    margin: -2px 0 0;
+    text-align: center;
+    text-decoration: none;
+    width: 25px;
+}
+.pop-top-pop {color:#72A105 !important; margin-bottom:0px; margin-top:4px;}
+
+.btn-crop {background:#72A105; color:#fff !important; font-size:14px;}
+
+.btn-crop:hover {background:#668d0b; color:#fff !important; font-size:14px;}
+
+.btn-crop:focus {background:#668d0b; color:#fff !important; font-size:14px;}
+/*End sing up*/
+
+/*CSS for footer subscribe error message*/
+footer label.error {
+margin: 6px 0px 0px 2px;
+font-size: 12px !important;
+}
+
+/*CSS for Header language tabber*/
+.topnav-area .navbar-nav li .currency-drop ul.c-list li a img {
+float: left;
+margin: 10px 25px 0 0 !important;
+}
+
+.signup-submit{
+	background: #72a105 none repeat scroll 0 0;
+	border: 1px solid #72a105;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 16px;
+	padding: 13px 0;
+	width: 100%;
+}
+
+#users-title, #users-hear-from, #users-country {
+	border: 1px solid #aaaaaa;
+	border-radius: 2px;
+	box-shadow: none;
+	height: 40px;
+}
+
+.dob{width:100% !important;}
+.dobDiv > .text{width:85% !important;width: 80% !important;float: left;}
+
+
+label.error{margin-top:5px;}
+
+.radio label, .checkbox>input{
+    margin-left:3px !important;
+}
+/*CSS MODEL DIALOG*/
+.addBgColor{
+    background-color:#EAEAEA !important;
+}
+.modal-backdrop{
+    z-index:1 !important;
+}
+.modal-dialog{
+    z-index: 999 !important;
+}
+.booking{
+    margin-left:15px !important;
+}
+.error-message{
+    color: #ff5a5f;
+    font-size: 13px;
+    font-style: normal;
+    margin-left: 5px;
+}
+/*For service and rates */
+.guestRate{
+   float:right !important;
+   margin-top:5px !important;
+ }
+ @media (max-width: 1366px) and (min-width: 1200px){
+		header .top-search .search-box .search-input {
+			font-size: 14px !important;
+		}	
+}
+.col-lg-6.col-md-6 > input,.col-lg-5.col-md-5 > input{
+    width:100% !important;
+}
+div.checkbox label.error{
+    width:auto !important;
+}
+/*Search CSS ADD ON START*/
+ul.pet_count li.dog-in-li span {
+    float: left;
+    position: relative;
+    text-align: center;
+    top: 10px;
+    width: 100%;
+}
+
+ul.pet_count  li.dog-in-li:hover  {
+    background:#72A105;
+    color:#fff;
+  
+}
+
+
+div.checkbox label.error{
+    width:auto !important;
+}
+
+ul.pet_count li.active  {
+    background:#72A105;
+    color:#fff;
+  
+}
+
+
+ul.booking_days li.dog-in-li span {
+    float: left;
+    position: relative;
+    text-align: center;
+    top: 10px;
+    width: 100%;
+}
+
+ul.booking_days  li.dog-in-li:hover  {
+    background:#72A105;
+    color:#fff;
+  
+}
+
+ul.booking_days li.active  {
+    background:#72A105;
+    color:#fff;
+  
+}
+
+.unbold {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.market-place ul li.active a{
+  background: #4c4c4c url("../../img/training-icon.png") no-repeat scroll center top 5px;
+  color: #ffffff;
+}
+<<<<<<< HEAD
+<!-- for star rating-->
+
+ .rating {
+          overflow: hidden;
+          display: inline-block;
+      }
+      .rating-input {
+          position: absolute;
+          left: 0;
+          top: -50px;
+      }
+      .rating-star {        
+          display: block;
+          float: right;        
+          width: 16px;
+          height: 16px;
+          background: url('http://kubyshkin.ru/samples/star-rating/star.png') 0 -16px;
+      }
+      .rating-star:hover,
+      .rating-star:hover ~ .rating-star,
+      .rating-input:checked ~ .rating-star {
+          background-position: 0 0;
+      }
+
+/* Just for the demo */
+
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+
+fieldset, label { margin: 0; padding: 0; }
+h1 { font-size: 1.5em; margin: 10px; }
+
+/****** Style Star Rating Widget *****/
+
+.rating { 
+  border: none;
+  float: left;
+}
+
+.rating > input { display: none; } 
+.rating > label:before { 
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.rating > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+
+.rating > label { 
+  color: #b8b894; 
+ float: right; 
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating > input:checked ~ label, /* show gold star when clicked */
+.rating:not(:checked) > label:hover, /* hover current star */
+.rating:not(:checked) > label:hover ~ label { color: #cc9900;  } /* hover previous stars in list */
+
+.rating > input:checked + label:hover, /* hover current star when changing rating */
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, /* lighten current selection */
+.rating > input:checked ~ label:hover ~ label { color: #cc9900;  } 
